@@ -1,0 +1,494 @@
+body {
+	direction: rtl;
+}
+.blub {
+    left: 50%;
+    margin-left: -150px;
+    right: 50%;
+}
+.top-header .social-link {
+    text-align: left;
+}
+.top-header .social-link li a {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.top-header ul {
+    text-align: right;
+}
+.top-header .header-info li a {
+    margin-left: 12px;
+    margin-right: 0;
+}
+.middle-header ul {
+    text-align: left;
+}
+.search-wrapper .search-button {
+    left: -2px;
+    right: auto;
+}
+.search-wrapper {
+    position: absolute;
+    top: -41px;
+    left: 0;
+    right: auto;
+}
+.search-wrapper.is-active .searchline {
+    outline: 0;
+}
+.middle-header ul li {
+    padding-right: 55px;
+    padding-left: 0;
+    text-align: right;
+    margin-right: 25px;
+    margin-left: 0;
+}
+.middle-header ul li .icon {
+    right: 0;
+    left: auto;
+}
+.middle-header ul li a {
+    font-size: 14px;;
+}
+.main-menu-area nav ul li {
+    margin-right: 25px;
+    margin-left: 0;
+}
+.main-menu-area nav ul li ul.dropdown-menu {
+    right: 0;
+    left: auto;
+    text-align: right;
+}
+.middle-header {
+    text-align: right;
+}
+.main-menu-area nav ul li ul.dropdown-menu li ul.sub-menu {
+    right: 185px;
+    left: auto;
+}
+.main-banner-content {
+    text-align: right;
+}
+.main-banner-img {
+    left: 0;
+    right: auto;
+}
+.main-banner-content .btn-primary {
+    margin-left: 8px;
+    margin-right: 0;
+}
+.about-content {
+    margin-right: -100px;
+    margin-left: 0;
+    text-align: right;
+}
+.about-box {
+    padding-left: 0;
+    padding-right: 65px;
+    text-align: right;
+}
+.about-box i {
+    right: 0;
+    left: auto;
+}
+.support-image {
+    left: 0;
+    right: auto;
+}
+.support-content {
+    text-align: right;
+}
+.support-content .btn-secondary {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.campaigns-box .single-campaigns .campaigns-content {
+    padding-right: 120px;
+    text-align: right;
+    padding-left: 0;
+}
+.single-campaigns .date {
+    right: 5px;
+    left: auto;
+}
+.campaigns-box .single-campaigns .campaigns-content .date {
+    right: 0;
+    left: auto;
+}
+.single-campaigns .campaigns-content {
+    text-align: right;
+}
+.history-timeline .single-history .history-content {
+    padding: 50px 110px 45px 45px;
+    text-align: right;
+}
+.history-timeline .single-history .history-content h3 {
+    right: 30px;
+    left: auto;
+}
+.history-timeline .single-history .history-content h3::before {
+    left: 14px;
+    right: auto;
+}
+.achievement-content {
+    margin-right: 25px;
+    margin-left: 0;
+    text-align: right;
+}
+.achievement-area .section-title {
+    text-align: right;
+}
+.achievement-slides.owl-theme .owl-nav {
+    text-align: right;
+    padding-right: 15px;
+    padding-left: 0;
+}
+.single-team .team-content ul {
+    left: 20px;
+    right: auto;
+}
+.single-team .team-content {
+    text-align: right;
+}
+.feedback-image {
+    left: 0;
+    right: auto;
+}
+.testimonials-area .item {
+    text-align: right;
+}
+.client-info img {
+    right: 0;
+    left: auto;
+}
+.client-info {
+    padding-right: 72px;
+    padding-left: 0;
+}
+.testimonials-area {
+    text-align: right;
+}
+.feedback-slides .owl-dots {
+    left: 0;
+    right: auto;
+}
+.single-blog-post {
+    text-align: right;
+}
+.single-blog-post .blog-content ul.post-meta {
+    float: right;
+    padding-right: 0 !important;
+}
+.single-blog-post .blog-content ul.share-social {
+    float: left;
+    margin-top: -2px;
+}
+.single-blog-post .blog-content ul .social-dropdown {
+    right: -178px;
+}
+.single-blog-post .blog-content ul.post-meta li {
+    margin-left: 8px;
+    margin-right: 0;
+}
+.newsletter form .subscribe-btn {
+    left: 0;
+    right: auto;
+    outline: 0;
+    border-radius: 5px 0 0 5px;
+}
+.footer-widget {
+    text-align: right;
+}
+.quick-links-widget {
+    margin-right: 30px;
+    margin-left: 0;
+}
+.footer-widget .quick-links li a {
+    padding-right: 38px;
+    padding-left: 0;
+}
+.footer-widget .quick-links li a::before {
+    right: 0;
+    left: auto;
+}
+.copyright-area ul {
+    text-align: left;
+}
+.copyright-area ul li {
+    margin-right: 12px;
+    margin-left: 0;
+}
+.copyright-area {
+    text-align: right;
+}
+.main-menu-area.main-menu-two .main-nav {
+    text-align: left;
+}
+.main-banner-two {
+    text-align: right;
+}
+.home-slides .btn-primary {
+    margin-left: 8px;
+    margin-right: 0;
+}
+.page-title {
+    text-align: right;
+}
+.campaignsBox {
+    text-align: right;
+}
+.campaignsBox .date {
+    left: 5px;
+    right: auto;
+}
+.side-bar .search-box form button {
+    left: 0;
+    right: auto;
+    border-radius: 5px 0 0 5px;
+}
+.side-bar .widget-box .title {
+    padding-right: 10px;
+    padding-left: 0;
+    text-align: right;
+}
+.side-bar .widget-box .title::before {
+    right: 0;
+    left: auto;
+}
+.side-bar .latest-post .single-latest-post {
+    padding-right: 105px;
+    padding-left: 0;
+    text-align: right;
+}
+.side-bar .latest-post .single-latest-post .img {
+    right: 0;
+    left: auto;
+}
+.side-bar .widget-box {
+    text-align: right;
+}
+.side-bar .categories-box li a:hover {
+    padding-right: 10px;
+    padding-left: 0;
+}
+.events-details {
+    text-align: right;
+}
+.volunteer-details {
+    text-align: right;
+}
+.volunteer-details .blockquote {
+    border-right: 5px solid #eb1b2b;
+    border-left: none;
+}
+.contact-info {
+    text-align: right;
+}
+.contact-info .info li {
+    padding-right: 38px;
+    padding-left: 0;
+}
+.contact-info .info li i {
+    right: 0;
+    left: auto;
+}
+.contact-info ul {
+    padding-right: 0 !important;
+}
+form#contactForm {
+    text-align: right;
+}
+.text-danger {
+    text-align: right !important;
+}
+.news-details {
+    text-align: right;
+}
+.news-details-desc .post-meta li {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.news-details-desc .social-share li:first-child {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.news-details .single-comments {
+    padding-right: 75px;
+    padding-left: 0;
+}
+.news-details .single-comments .content a {
+    right: auto;
+    left: 0;
+}
+.news-details .single-comments .img {
+    left: auto;
+    right: 0;
+}
+.news-details .single-comments.left-mr {
+    margin-right: 45px;
+    margin-left: 0;
+}
+.news-details-desc .features {
+    padding-right: 0 !important;
+}
+.donate {
+    text-align: right;
+}
+.donate .notice {
+    padding-right: 68px;
+    padding-left: 0;
+}
+.donate .notice i {
+    right: 20px;
+    left: auto;
+}
+.donate .give-donation-custom span {
+    right: 0;
+    left: auto;
+    border-radius: 0 10px 10px 0;
+}
+.donate .give-donation-custom input {
+    padding-right: 75px;
+    padding-left: 0; 
+}
+.single-questions {
+    text-align: right;
+}
+.text-right {
+    text-align: left !important;
+}
+.main-menu-area nav ul.main-nav {
+    float: right;
+}
+.main-menu-area nav ul li:first-child {
+    margin-right: 0 !important;
+}
+.achievement-area::before, .achievement-area::after {
+    left: auto;
+    right: 0;
+}
+.achievement-area::before, .achievement-area::after {
+    left: auto;
+    right: 0;
+}
+.achievement-area .overlay::after {
+    left: 0;
+    right: auto;
+}
+.achievement-area::after {
+    right: auto;
+    left: 0;
+}
+.go-top {
+    left: 20px;
+    right: auto;
+}
+.achievement-area .overlay {
+    background: #eb1b2b;
+    left: 0;
+    right: 0;
+    opacity: 0.9;
+}
+
+/* RTL responsive css*/
+@media only screen and (max-width: 767px) {
+    .blub {
+        left: 50%;
+        right: 28% !important;
+    }
+    .top-header ul {
+        text-align: center;
+    }
+    .about-content {
+        margin-right: 0 !important;
+    }
+    .about-box {
+        padding-left: 0 !important;
+    }
+    .campaigns-box .single-campaigns .campaigns-content {
+        padding-left: 0 !important;
+        padding-right: 100px;
+    }
+    .history-timeline .single-history .history-content.left-side {
+        padding: 30px 85px 30px 20px;
+    }
+    .history-timeline .single-history .history-content.right-side {
+        padding: 30px 85px 30px 20px;
+    }
+    .history-timeline .single-history .history-content h3::before {
+        right: 20px;
+        left: auto;
+    }
+    .news-details .single-comments {
+        padding-left: 0 !important;
+    }
+    .news-details .single-comments .content a {
+        top: 4px !important;
+        position: relative !important;
+    }
+    .quick-links-widget {
+        margin-right: 0 !important;
+    }
+    .mean-container .mean-bar {
+        text-align: left;
+        padding-left: 0 !important;
+    }
+    .main-menu-area .logo {
+        right: 15px;
+        left: auto;
+    }
+    .blub {
+        left: 50%;
+        margin-left: -150px;
+        right: 50%;
+    }
+    .main-menu-area nav ul li ul.dropdown-menu li ul.sub-menu {
+        right: -20px !important;
+    }
+    .main-menu-area nav ul li ul.dropdown-menu {
+        text-align: right;
+    }
+    
+    
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .about-content {
+        margin-right: 0 !important;
+    }
+    .history-timeline .single-history .history-content.left-side {
+        padding: 30px 90px 30px 20px;
+    }
+    .history-timeline .single-history .history-content.right-side {
+        padding: 30px 90px 30px 20px;
+    }
+    .quick-links-widget {
+        margin-right: 0 !important;
+    }
+    .main-menu-area nav ul li ul.dropdown-menu li ul.sub-menu {
+        right: -20px !important;
+    }
+    .main-menu-area nav ul li ul.dropdown-menu {
+        text-align: right;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .main-menu-area.main-menu-three nav ul li ul.dropdown-menu li ul.sub-menu {
+        left: auto;
+        right: -240px !important;
+    }
+    .container {
+        max-width: 920px;
+    }
+    .main-menu-area nav ul li ul.dropdown-menu {
+        width: 180px !important;
+    }
+
+}
+
+@media only screen and (min-width: 1400px) {
+    
+}
+/*# sourceMappingURL=responsive.css.map */
