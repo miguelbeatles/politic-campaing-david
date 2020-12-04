@@ -68,7 +68,7 @@ a {
 	transition: .4s;
 }
 a:hover {
-	color:  #a01f63;
+	color: #763893;
 	text-decoration: none;
 }
 p {
@@ -116,7 +116,7 @@ img {
 	bottom: 0;
 	opacity: 0;
 	content: '';
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 	z-index: -1;
 	-ms-transition: .4s;
@@ -151,12 +151,12 @@ img {
 	box-shadow: none;
 }
 .btn-primary.disabled, .btn-primary:disabled {
-	background-color:  #a01f63;
-	border-color:  #a01f63;
+	background-color: #763893;
+	border-color: #763893;
 	opacity: 1;
 }
 .btn-primary.disabled:hover, .btn-primary:disabled:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .btn-secondary {
 	color: #fff;
@@ -386,7 +386,7 @@ Header Area CSS
     margin-right: 0;
 }
 .top-header .header-info li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .top-header .social-link {
 	text-align: right;
@@ -398,7 +398,7 @@ Header Area CSS
 	font-size: 14px;
 }
 .top-header .social-link li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .middle-header {
 	background: #fff;
@@ -429,12 +429,12 @@ Header Area CSS
 	position: absolute;
 	left: 0;
 	top: 0;
-	color:  #a01f63;
+	color: #763893;
 	font-size: 20px;
 	width: 42px;
 	height: 42px;
 	line-height: 40px;
-	border: 1px solid  #a01f63;
+	border: 1px solid #763893;
 	text-align: center;
 	-ms-transition: .4s;
 	-o-transition: .4s;
@@ -443,12 +443,12 @@ Header Area CSS
 	transition: .4s;
 }
 .middle-header ul li:hover .icon {
-    background: #a01f63;
+    background:#763893;
     color: #fff;
 }
 .middle-header ul li .title {
 	display: block;
-	color:  #a01f63;
+	color: #763893;
 	font-size: 15px;
 	margin-top: -1px;
 }
@@ -460,7 +460,7 @@ Header Area CSS
 	font-weight: 600;
 }
 .middle-header ul li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .middle-header ul li:last-child {
 	padding-left: 0;
@@ -487,7 +487,7 @@ Header Area CSS
 	transform: translateX(80%);
 	font-size: 17px;
 	color: #343c48;
-	border: 1px solid  #a01f63;
+	border: 1px solid #763893;
 	padding: 0 15px;
 	opacity: 0;
 	visibility: hidden;
@@ -520,7 +520,7 @@ Header Area CSS
 	transition: .4s;
 }
 .search-wrapper .search-button:hover {
-	background:  #a01f63;
+	background: #763893;
 }
 .search-wrapper .search-button .icofont-close {
 	display: none;
@@ -539,7 +539,7 @@ Main Menu Area CSS
 ================================
 */
 .main-menu-area {
-	background:  #a01f63;
+	background: #763893;
 	-webkit-box-shadow: 0 7px 13px 0 rgba(0,0,0,.1);
 	box-shadow: 0 7px 13px 0 rgba(0,0,0,.1);
 	padding: 20px 0;
@@ -621,10 +621,10 @@ Main Menu Area CSS
 	font-size: 15px;
 }
 .main-menu-area nav ul li ul.dropdown-menu li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .main-menu-area nav ul li ul.dropdown-menu .active a {
-	color:  #a01f63;
+	color: #763893;
 }
 .main-menu-area nav ul li ul.dropdown-menu li ul.sub-menu {
 	position: absolute;
@@ -652,7 +652,7 @@ Main Menu Area CSS
 	margin: 0;
 }
 .main-menu-area nav .donate-btn li a {
-	color:  #a01f63;
+	color: #763893;
 }
 .main-menu-area nav .donate-btn li a:hover {
 	color: #fff;
@@ -743,8 +743,8 @@ a.meanmenu-reveal {
 	box-sizing: content-box;
 }
 .mean-container .mean-nav ul li a.mean-expand:hover {
-	background:  #a01f63;
-	border-color:  #a01f63;
+	background: #763893;
+	border-color: #763893;
 	color: #fff;
 }
 .mean-container .mean-push {
@@ -825,7 +825,7 @@ a.meanmenu-reveal {
 	color: #313131;
 }
 .main-menu-area.main-menu-two nav ul li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .main-menu-area.main-menu-two nav ul li:last-child {
 	width: 40px;
@@ -837,7 +837,7 @@ a.meanmenu-reveal {
 	width: 100% !important;
 }
 .main-menu-area.main-menu-two nav ul li a.active {
-	color:  #a01f63;
+	color: #763893;
 }
 @media only screen and (max-width : 991px) {
     .main-menu-area {
@@ -918,10 +918,10 @@ a.meanmenu-reveal {
 	color: #313131;
 }
 .main-menu-area.main-menu-three nav ul li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .main-menu-area.main-menu-three nav ul li a.active {
-	color:  #a01f63;
+	color: #763893;
 }
 @media only screen and (max-width : 991px) {
 	.main-menu-area.main-menu-three .main-navbar-nav {
@@ -966,7 +966,7 @@ Main Banner Area CSS
 	position: absolute;
 	-webkit-clip-path: polygon(0% 0%, 52% 0, 38% 100%, 0% 100%);
 	clip-path: polygon(0% 0%, 52% 0, 38% 100%, 0% 100%);
-	background: #a01f63;
+	background:#763893;
 	width: 100%;
 	height: 100%;
 	left: 0;
@@ -1046,16 +1046,16 @@ Main Banner Two Area CSS
 	right: -95px;
 }
 .home-slides.owl-theme .owl-nav [class*="owl-"]:hover {
-    color:  #a01f63;
+    color: #763893;
 }
 .home-slides .btn-primary {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
-	border-color:  #a01f63;
+	border-color: #763893;
 	margin-right: 8px;
 }
 .home-slides .btn-primary:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .home-slides .btn-primary::before {
 	background: #fff;
@@ -1106,15 +1106,15 @@ Boxes Area CSS
 	margin-bottom: 30px;
 }
 .boxes-content .btn-primary {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
-	border-color:  #a01f63;
+	border-color: #763893;
 }
 .boxes-content .btn-primary::before {
 	background: #fff;
 }
 .boxes-content .btn-primary:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .boxes-content .btn-secondary {
 	background: #464751;
@@ -1156,8 +1156,8 @@ About Area CSS
 	margin-top: 25px;
 }
 .about-content .btn-primary {
-	background:  #a01f63;
-	border-color:  #a01f63;
+	background: #763893;
+	border-color: #763893;
 	color: #fff;
 	padding: 9px 35px;
 }
@@ -1165,7 +1165,7 @@ About Area CSS
 	background: #fff;
 }
 .about-content .btn-primary:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .mt-100 {
     margin-top: 100px;
@@ -1179,7 +1179,7 @@ About Area CSS
 	left: 0;
 	top: 0;
 	font-size: 45px;
-	color:  #a01f63;
+	color: #763893;
 	transform-style: preserve-3d;
 	-ms-transition: .4s;
 	-o-transition: .4s;
@@ -1202,8 +1202,8 @@ About Area CSS
     position: relative;
     display: inline-block;
     font-size: 14px;
-    color:  #a01f63;
-    border: 1px solid  #a01f63;
+    color: #763893;
+    border: 1px solid #763893;
     padding: 5px 15px;
     border-radius: 4px;
 }
@@ -1243,7 +1243,7 @@ Support Area CSS
     margin-top: -12px;
 }
 .support-content h3 span {
-	background:  #a01f63;
+	background: #763893;
 	padding: 0 3px;
 }
 .support-content p {
@@ -1256,15 +1256,15 @@ Support Area CSS
 	margin-left: 8px;
 }
 .support-content .btn-secondary {
-	background:  #a01f63;
-	border-color:  #a01f63;
+	background: #763893;
+	border-color: #763893;
     margin-right: 5px;
 }
 .support-content .btn-secondary::before {
 	background: #fff;
 }
 .support-content .btn-secondary:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .support-image {
 	position: absolute;
@@ -1289,10 +1289,10 @@ Our Mission Area CSS
     width: 70px;
     height: 70px;
     line-height: 70px;
-    border: 1px solid  #a01f63;
+    border: 1px solid #763893;
     text-align: center;
     color: #fff;
-    background-color:  #a01f63;
+    background-color: #763893;
     font-size: 35px;
     display: inline-block;
     -webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
@@ -1334,7 +1334,7 @@ Fun Facts Area CSS
 	font-size: 25px;
 	margin-bottom: 5px;
     letter-spacing: 3px;
-    color:  #a01f63;
+    color: #763893;
 }
 .funFact p {
 	font-size: 17px;
@@ -1366,7 +1366,7 @@ Fun Facts Area CSS
 	margin-bottom: -75px;
 }
 .funFact.top-line:hover::before, .funFact.bottom-line:hover::before {
-    border-color:  #a01f63;
+    border-color: #763893;
 }
 .funFact.top-line::after, .funFact.bottom-line::after {
 	content: '';
@@ -1389,7 +1389,7 @@ Fun Facts Area CSS
 	bottom: 0;
 }
 .funFact.top-line:hover::after, .funFact.bottom-line:hover::after {
-    background:  #a01f63;
+    background: #763893;
 }
 
 /*
@@ -1423,7 +1423,7 @@ Upcoming Campaigns Area CSS
 	top: 0;
 	-webkit-clip-path: polygon(100% 0, 0% 100%, 0 0);
 	clip-path: polygon(100% 0, 0% 100%, 0 0);
-	background:  #a01f63;
+	background: #763893;
 	width: 100%;
 	height: 100%;
 	z-index: -1;
@@ -1502,7 +1502,7 @@ Upcoming Campaigns Area CSS
 	top: 0;
 	-webkit-clip-path: polygon(100% 0, 0% 100%, 0 0);
 	clip-path: polygon(100% 0, 0% 100%, 0 0);
-	background:  #a01f63;
+	background: #763893;
 	width: 100%;
 	height: 100%;
 	z-index: -1;
@@ -1537,7 +1537,7 @@ Upcoming Campaigns Area CSS
     margin-bottom: 15px;
 }
 .campaignsBox .campaigns-content span i {
-	color:  #a01f63;
+	color: #763893;
 }
 .campaignsBox .campaigns-content p {
 	color: #333;
@@ -1594,7 +1594,7 @@ Events Details Area CSS
 	margin-bottom: 0;
 }
 .events-details-box span {
-	color:  #a01f63;
+	color: #763893;
 	display: block;
 	margin-bottom: 10px;
 	font-size: 18px;
@@ -1604,7 +1604,7 @@ Events Details Area CSS
 	margin-bottom: 15px;
 }
 .events-details-box p a {
-	color:  #a01f63;
+	color: #763893;
 }
 .events-details #map {
 	margin-bottom: 0;
@@ -1664,16 +1664,16 @@ Donate Area CSS
 	margin: 0 4px;
 }
 .donate-price ul li a:hover, .donate-price ul li a:focus {
-	background:  #a01f63;
-    border-color:  #a01f63;
+	background: #763893;
+    border-color: #763893;
 }
 .donate-price .btn-primary {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
-	border-color:  #a01f63;
+	border-color: #763893;
 }
 .donate-price .btn-primary:hover {
-    color:  #a01f63;
+    color: #763893;
 }
 .donate-price .btn::before {
 	background: #fff;
@@ -1694,7 +1694,7 @@ Donate Area CSS
 	position: absolute;
 	left: 20px;
 	top: 12px;
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 	width: 35px;
 	height: 35px;
@@ -1718,7 +1718,7 @@ Donate Area CSS
 	position: absolute;
 	left: 0;
 	top: 0;
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 	display: inline-block;
 	width: 50px;
@@ -1763,13 +1763,13 @@ Donate Area CSS
 	background: #eee;
 }
 .donate .payment-personal-info .btn-primary {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 	margin-top: 10px;
-	border: 2px solid  #a01f63;
+	border: 2px solid #763893;
 }
 .donate .payment-personal-info .btn-primary:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .donate .payment-personal-info .btn::before {
 	background: #fff;
@@ -1819,7 +1819,7 @@ History Area CSS
 	top: -55px;
 }
 .history-timeline .single-history .history-content h3 {
-    color:  #a01f63;
+    color: #763893;
     font-style: italic;
     font-size: 45px;
     position: absolute;
@@ -1840,7 +1840,7 @@ History Area CSS
 	position: absolute;
 	right: 14px;
 	top: -8px;
-	background:  #a01f63;
+	background: #763893;
 	width: 1px;
 	height: 80px;
 	transform: rotate(40deg);
@@ -1875,9 +1875,9 @@ Gallery Area CSS
 	transition: .4s;
 }
 .shorting-menu .filter:hover, .shorting-menu .filter.active {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
-	border-color:  #a01f63;
+	border-color: #763893;
 }
 .shorting .mix {
 	display: none;
@@ -1922,7 +1922,7 @@ Achievement Area CSS
 	top: 0;
 	width: 50%;
 	height: 100%;
-	background:  #a01f63;
+	background: #763893;
 	opacity: .80;
 }
 .achievement-area .overlay::after {
@@ -2061,7 +2061,7 @@ Volunteer Area CSS
 }
 .single-team .team-content ul li a {
 	font-size: 20px;
-	color:  #a01f63;
+	color: #763893;
 	display: inline-block;
 }
 .single-team .team-content ul .social-dropdown {
@@ -2082,7 +2082,7 @@ Volunteer Area CSS
 	width: 35px;
 	height: 35px;
 	text-align: center;
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 	line-height: 35px;
 	border-radius: 50%;
@@ -2090,7 +2090,7 @@ Volunteer Area CSS
 }
 .single-team .team-content ul .social-dropdown li a:hover {
 	background: #fff;
-	color:  #a01f63;
+	color: #763893;
 }
 .team-slides.owl-theme .owl-nav [class*="owl-"] {
 	position: absolute;
@@ -2146,7 +2146,7 @@ Volunteer Details Area CSS
 	font-size: 15px;
 }
 .volunteer-details-area .social li a:hover {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 }
 .volunteer-details h3 {
@@ -2162,7 +2162,7 @@ Volunteer Details Area CSS
 }
 .volunteer-details .blockquote {
 	padding: 25px;
-	border-left: 5px solid  #a01f63;
+	border-left: 5px solid #763893;
 	margin-top: 25px;
 	margin-bottom: 25px;
 	background: #fff3f3;
@@ -2170,7 +2170,7 @@ Volunteer Details Area CSS
 .volunteer-details .blockquote-footer {
 	margin-top: 10px;
 	font-weight: 600;
-	color:  #a01f63;
+	color: #763893;
 }
 .volunteer-contact-info .box {
 	margin-top: 30px;
@@ -2181,7 +2181,7 @@ Volunteer Details Area CSS
 .volunteer-contact-info .box i {
 	font-size: 35px;
 	margin-bottom: 15px;
-	color:  #a01f63;
+	color: #763893;
 	display: block;
 }
 .volunteer-contact-info .box p a {
@@ -2198,13 +2198,13 @@ Volunteer Details Area CSS
 	border: 1px solid #eee;
 }
 .volunteer-details .quick-contact .btn-primary {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 	margin-top: 10px;
-	border: 2px solid  #a01f63;
+	border: 2px solid #763893;
 }
 .volunteer-details .quick-contact .btn-primary:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .volunteer-details .quick-contact .btn::before {
 	background: #fff;
@@ -2249,7 +2249,7 @@ Testimonials Area CSS
 	bottom: 12px;
 	left: 0;
 	height: 6px;
-	background:  #a01f63;
+	background: #763893;
 	border-radius: 10px 10px 0 0;
 	z-index: -1;
 }
@@ -2343,7 +2343,7 @@ Blog Area CSS
 	color: #616161;
 }
 .single-blog-post .blog-content ul.post-meta li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .single-blog-post .blog-content ul.share-social {
 	float: right;
@@ -2379,16 +2379,16 @@ Blog Area CSS
     width: 28px;
     height: 28px;
     text-align: center;
-    background:  #a01f63;
+    background: #763893;
     color: #fff;
     line-height: 28px;
     border-radius: 50%;
-    border: 1px solid  #a01f63;
+    border: 1px solid #763893;
     margin-right: 2px;
 }
 .single-blog-post .blog-content ul .social-dropdown li a:hover {
 	background: #fff;
-	color:  #a01f63;
+	color: #763893;
 }
 .news-slides.owl-theme .owl-nav [class*="owl-"] {
 	position: absolute;
@@ -2440,7 +2440,7 @@ Blog Details Area CSS
 	margin-right: 15px;
 }
 .news-details-desc .post-meta li i {
-	color:  #a01f63;
+	color: #763893;
 	margin-right: 5px;
 }
 .news-details-desc p {
@@ -2493,7 +2493,7 @@ Blog Details Area CSS
 	border-radius: 50%;
 }
 .news-details-desc .social-share li a:hover {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 }
 .news-details .comments {
@@ -2523,14 +2523,14 @@ Blog Details Area CSS
     position: absolute;
     right: 0;
     top: 0;
-    color:  #a01f63;
+    color: #763893;
     padding: 4px 15px;
     border-radius: 30px;
     font-size: 14px;
-    border: 1px solid  #a01f63;
+    border: 1px solid #763893;
 }
 .news-details .single-comments .content a:hover {
-    background-color:  #a01f63;
+    background-color: #763893;
     color: #fff;
 }
 .news-details .single-comments .content p {
@@ -2555,16 +2555,16 @@ Blog Details Area CSS
 	border: 1px solid #eee;
 }
 .news-details form .btn {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
     margin-top: 15px;
-	border-color:  #a01f63;
+	border-color: #763893;
 }
 .news-details form .btn::before {
 	background: #fff;
 }
 .news-details form .btn:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 
 /*
@@ -2648,24 +2648,24 @@ FORMA PARTE DEL EQUIPO CSS
 	padding: 6px 25px;
 }
 .become-a-volunteer form .form-control:hover, .become-a-volunteer form .form-control:focus {
-	border-color:  #a01f63;
+	border-color: #763893;
 }
 .become-a-volunteer .btn {
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 	padding: 13px 38px;
 	font-size: 17px;
 	border-radius: 60px;
 	margin-top: 20px;
-	border-color:  #a01f63;
+	border-color: #763893;
 }
 .become-a-volunteer .btn::before {
 	border-radius: 60px;
     background: #fff;
 }
 .become-a-volunteer .btn:hover {
-	color:  #a01f63;
-	border-color:  #a01f63;
+	color: #763893;
+	border-color: #763893;
 }
 
 /*
@@ -2710,7 +2710,7 @@ Page Title Area CSS
 	margin: 0 2px;
 }
 .page-title ul li a {
-    color:  #a01f63;
+    color: #763893;
 }
 
 /*
@@ -2738,11 +2738,11 @@ Pagination Area CSS
 }
 .page-item.active .page-link {
 	color: #fff;
-	background-color:  #a01f63;
+	background-color: #763893;
 }
 .page-link:hover {
 	color: #fff;
-	background-color:  #a01f63;
+	background-color: #763893;
 }
 .page-link:focus {
 	box-shadow: unset;
@@ -2770,7 +2770,7 @@ Sidebar Area CSS
 	top: -1px;
 	height: 100%;
 	width: 3px;
-	background:  #a01f63;
+	background: #763893;
 }
 .side-bar .search-box form {
 	position: relative;
@@ -2786,7 +2786,7 @@ Sidebar Area CSS
 	height: 50px;
 	width: 55px;
 	cursor: pointer;
-	background:  #a01f63;
+	background: #763893;
 	color: #fff;
 	border: none;
 	border-radius: 0 5px 5px 0;
@@ -2815,7 +2815,7 @@ Sidebar Area CSS
 	color: #616161;
 }
 .side-bar .latest-post .single-latest-post .content span i {
-	color:  #a01f63;
+	color: #763893;
 }
 .side-bar .categories-box ul {
 	padding: 0;
@@ -2853,7 +2853,7 @@ Sidebar Area CSS
     border: 1px solid #273272;
 }
 .side-bar .tag-box ul li a:hover {
-	background:  #a01f63;
+	background: #763893;
     color: #fff;
 }
 
@@ -2891,7 +2891,7 @@ FAQ Area CSS
 	position: absolute;
 	left: 0;
 	top: 0;
-    background:  #a01f63;
+    background: #763893;
 	width: 100%;
 	height: 100%;
 	opacity: .66;
@@ -2958,7 +2958,7 @@ Contact Area CSS
 	background: #fbfbfb;
 }
 #contactForm .form-control:hover {
-	border-color:  #a01f63;
+	border-color: #763893;
 }
 #contactForm .list-unstyled li {
 	color: red;
@@ -2993,7 +2993,7 @@ Contact Area CSS
 	margin-bottom: 0;
 }
 .contact-info .info li i {
-	color:  #a01f63;
+	color: #763893;
 	font-size: 30px;
 	position: absolute;
 	left: 0;
@@ -3005,7 +3005,7 @@ Contact Area CSS
 	margin-bottom: 3px;
 }
 .contact-info .info li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .contact-info .social-icon li {
 	display: inline-block;
@@ -3022,9 +3022,9 @@ Contact Area CSS
 	border-radius: 50%;
 }
 .contact-info .social-icon li a:hover {
-	border-color:  #a01f63;
+	border-color: #763893;
 	color: #fff;
-    background:  #a01f63;
+    background: #763893;
 }
 
 /*
@@ -3071,7 +3071,7 @@ Footer Area CSS
 	margin-right: 11px;
 }
 .footer-widget .social-links li a:hover {
-	color:  #a01f63;
+	color: #763893;
 }
 .quick-links-widget {
 	margin-left: 30px;
@@ -3099,7 +3099,7 @@ Footer Area CSS
 	background: #e40943;
 }
 .footer-widget .quick-links li a:hover {
-    color:  #a01f63;
+    color: #763893;
 }
 .footer-widget .recent-post li {
 	margin-bottom: 23px;
@@ -3114,7 +3114,7 @@ Footer Area CSS
 	display: inline-block;
 }
 .footer-widget .recent-post li a:hover {
-	color:  #a01f63;
+	color: #763893;
 	text-decoration: none;
 }
 .footer-widget .instagram-post {
@@ -3155,7 +3155,7 @@ Footer Area CSS
 	color: #fff;
 }
 .copyright-area ul li a:hover {
-    color:  #a01f63;
+    color: #763893;
 }
 
 /*
@@ -3184,7 +3184,7 @@ Go Top CSS
 }
 .go-top:hover {
 	color: #fff;
-	background:  #a01f63;
+	background: #763893;
 }
 
 /* Chat Style */
