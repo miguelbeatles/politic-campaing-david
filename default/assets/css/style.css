@@ -206,7 +206,7 @@ img {
 .owl-theme .owl-nav [class*="owl-"] {
 	margin: 0 3px;
 	padding: 0;
-	background: #e40943;
+	background: #763893;
 	border-radius: 0;
 	font-size: 25px;
 	width: 40px;
@@ -297,7 +297,7 @@ Preloader Area CSS
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #c20021;
+	background-color: #763893;
 	-webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
 	animation: sk-foldCubeAngle 2.4s infinite linear both;
 	-webkit-transform-origin: 100% 100%;
@@ -1068,7 +1068,7 @@ Boxes Area CSS
 */
 .boxes-area {
 	position: relative;
-	background: #e40943;
+	background: #763893;
 }
 .boxes-area::before, .boxes-area::after {
     content: '';
@@ -1973,7 +1973,7 @@ Achievement Area CSS
 }
 .video-play-btn i {
 	font-size: 30px;
-	color: #e40943;
+	color: #763893;
 	line-height: 72px;
 }
 .video-play-btn .ripple {
@@ -3096,7 +3096,7 @@ Footer Area CSS
 	top: 10px;
 	width: 28px;
 	height: 1px;
-	background: #e40943;
+	background: #763893;
 }
 .footer-widget .quick-links li a:hover {
     color: #763893;
